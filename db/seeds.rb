@@ -10,7 +10,10 @@ puts "[ini] Cadastrando as CATEGORIAS"
 categories = [  "Animais e acessórios", 
                 "Esportes",
                 "Para a sua cama", 
-                "Eletronicos & celulares", "Musicas & hobbies", "Bebês & crianças", "Moda & beleza", "Veículos & barcos", "Imóveis", "Empregos & negócios"]
+                "Eletronicos & celulares", 
+                "Musicas & hobbies", 
+                "Bebês & crianças", 
+                "Moda & beleza", "Veículos & barcos", "Imóveis", "Empregos & negócios"]
 
 Category.create!()
 puts "[fim] Cadastrando as CATEGORIAS"
