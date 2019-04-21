@@ -13,7 +13,11 @@ categories = [  "Animais e acessórios",
                 "Eletronicos & celulares", 
                 "Musicas & hobbies", 
                 "Bebês & crianças", 
-                "Moda & beleza", "Veículos & barcos", "Imóveis", "Empregos & negócios"]
+                "Moda & beleza", 
+                "Veículos & barcos", 
+                "Imóveis", 
+                "Empregos & negócios"
+            ]
 
 Category.create!()
 puts "[fim] Cadastrando as CATEGORIAS"
